@@ -1,0 +1,30 @@
+Name: Rahul Verma
+Email: rahul.verma@email.com
+Phone: +91-8765432109
+
+Summary:
+Data Scientist with 3 years of experience building machine learning
+models, NLP pipelines, and data-driven applications.
+
+Experience:
+- Data Scientist at Analytics Co (2022-2025)
+  Built NLP classification models using Python and scikit-learn.
+  Deployed models on AWS SageMaker. Improved model accuracy by 18%.
+  Wrote ETL pipelines in Apache Airflow.
+
+- Data Analyst at DataHub Solutions (2021-2022)
+  Performed SQL-based analysis. Built Tableau dashboards.
+  Automated Excel reports with Python pandas.
+
+Skills:
+Python, Machine Learning, Deep Learning, NLP, scikit-learn, TensorFlow,
+Keras, Pandas, NumPy, Matplotlib, SQL, PostgreSQL, AWS, SageMaker,
+Tableau, Jupyter, Git, Docker, Airflow, Spark
+
+Education:
+M.Sc Data Science
+Indian Institute of Science, Bangalore, 2021
+
+Certifications:
+- AWS Certified Machine Learning – Specialty
+- DeepLearning.AI TensorFlow Developer

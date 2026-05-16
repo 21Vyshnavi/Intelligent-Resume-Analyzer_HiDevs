@@ -1,0 +1,32 @@
+Name: Priya Sharma
+Email: priya.sharma@email.com
+Phone: +91-9876543210
+
+Summary:
+Full-stack developer with 4 years of experience building scalable web
+applications and REST APIs in fast-paced startup environments.
+
+Experience:
+- Software Engineer at TechCorp India Pvt Ltd (2021-2025)
+  Built REST APIs using Python and Django, React.js dashboards, and
+  PostgreSQL databases. Led a team of 3 junior developers. Deployed
+  applications on AWS EC2 with Docker containers.
+
+- Junior Developer at StartupXYZ (2020-2021)
+  Developed product features using Node.js and Vue.js.
+  Wrote unit tests with Jest.
+
+Skills:
+Python, Django, Flask, React, JavaScript, TypeScript, PostgreSQL,
+MySQL, Docker, AWS, Git, REST API, Redis, HTML, CSS, Linux
+
+Education:
+B.Tech Computer Science
+IIT Hyderabad, 2020
+
+Projects:
+- Real-time analytics dashboard (Python, React, WebSockets, Redis)
+- E-commerce platform with Stripe payment integration (Django)
+
+Certifications:
+- AWS Solutions Architect – Associate
